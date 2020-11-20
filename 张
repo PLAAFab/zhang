@@ -1,1 +1,6 @@
-
+＃包括< stdio.h中>
+int  main（）
+{
+	printf（“ Hello World \ n ”）;
+	返回 0 ;
+}
